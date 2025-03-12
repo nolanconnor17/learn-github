@@ -1,2 +1,2 @@
 # learn-github
-This is for learning Github
+This is for getting started with Github. Happy Learning!
